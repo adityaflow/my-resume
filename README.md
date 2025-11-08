@@ -1,2 +1,2 @@
 # my-resume
-This is my first Git Repository.
+This is my resume website project.
